@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "157396908502",
+    "firebase_url": "https://tetetest-72f08.firebaseio.com",
+    "project_id": "tetetest-72f08",
+    "storage_bucket": "tetetest-72f08.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:157396908502:android:5bc077f57f6cbc4f9e0c77",
+        "android_client_info": {
+          "package_name": "it.devncode.rntemplate"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "157396908502-c8vqvnp7djlj8m7rl12s203ncq0uijgr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyASiypKyU9N1CHQEIfTQyibaDFCDoZVe1E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "157396908502-c8vqvnp7djlj8m7rl12s203ncq0uijgr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
